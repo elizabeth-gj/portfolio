@@ -1,4 +1,4 @@
-# 👷‍♀️ Elizabeth's Portfolio
+# 🔧 Elizabeth's Portfolio
 
 Welcome to my data portfolio. I document some of my projects in the data field.
 
