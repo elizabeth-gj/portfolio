@@ -21,7 +21,7 @@ Welcome to my data portfolio. I document some of my projects in the data field.
 
 | Project & Link  | Area | Project Description|
 | ------------- | ------------- | ------------- |
-| [✂ Carly's Clippers : Loops & Lists](https://github.com/elizabeth-gj/Codecademy-Projects/tree/master/Carlys-Clippers-Loops-Lists) | Programming, EDA  | This haircut salon needs to run through prices (average calculation, update of prices) and revenue generated to inform upcoming business weeks. <br>  *Lists, Loops* |
-| Content Cell  | String, Numbers ; Concatenation; Calculations  | Content Cell  |
+| [✂ Carly's Clippers : Loops & Lists](https://github.com/elizabeth-gj/Codecademy-Projects/tree/master/Carlys-Clippers-Loops-Lists) | EDA  | This haircut salon needs to run through prices (average calculation, update of prices) and revenue generated to inform upcoming business weeks. <br>  *Lists, Loops* |
+| [🛋 Lovely Loveseats : Programming, Calculations](https://github.com/elizabeth-gj/Codecademy-Projects/tree/master/Lovely-Loveseats-Programming-Calculations)  | Programming  | This furniture store needs help building their catalog and establishing a quick process of creating receipts for each of their customers  <br>  *Concatenation ; Calculations ; String, Numbers* |
 
 ***
