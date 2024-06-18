@@ -21,7 +21,7 @@ Welcome to my data portfolio. I document some of my projects in the data field.
 
 | Project & Link  | Area | Project Description|
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| [✂ Carly's Clippers : Loops & Lists](https://github.com/elizabeth-gj/Codecademy-Projects/tree/master/Carlys-Clippers-Loops-Lists) | Programming, EDA  | This haircut salon needs to run through prices (average calculation, update of prices) and revenue generated to inform upcoming business weeks. <br>  *Lists, Loops* |
 | Content Cell  | Content Cell  | Content Cell  |
 
 ***
