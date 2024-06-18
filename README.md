@@ -8,7 +8,6 @@ Welcome to my data portfolio. I document some of my projects in the data field.
 
 ## SQL
 
-abc
 
 | Project & Link  | Area | Project Description|
 | ------------- | ------------- | ------------- |
@@ -19,7 +18,6 @@ abc
 
 ## Data Visualization
 
-abc
 | Project & Link  | Area | Project Description|
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
@@ -29,7 +27,6 @@ abc
 
 ## Python
 
-abc
 | Project & Link  | Area | Project Description|
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
